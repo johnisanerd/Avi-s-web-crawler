@@ -35,3 +35,14 @@
 2026-07-20 00:44:41 [INFO] scraper: Scraper run finished with final status: SUCCEEDED
 2026-07-20 00:44:41 [INFO] scraper: Downloading raw dataset items...
 2026-07-20 00:44:43 [INFO] scraper: Successfully downloaded 50 raw lead records.
+2026-07-20 01:09:55 [INFO] scraper: Initializing scraper run with 40 search strings for actor 'compass/crawler-google-places'.
+2026-07-20 01:09:55 [INFO] scraper: Triggering actor run on Apify...
+2026-07-20 01:09:57 [INFO] scraper: Apify run triggered. Run ID: VB6muQfQHC33zizZZ | Dataset ID: glGO28J7VWhuCFvNs
+2026-07-20 01:09:57 [INFO] scraper: Polling run status (elapsed: 0s)... Current status: READY
+2026-07-20 01:10:13 [INFO] scraper: Polling run status (elapsed: 16s)... Current status: RUNNING
+2026-07-20 01:10:30 [INFO] scraper: Polling run status (elapsed: 32s)... Current status: RUNNING
+2026-07-20 01:10:46 [INFO] scraper: Polling run status (elapsed: 49s)... Current status: RUNNING
+2026-07-20 01:11:03 [INFO] scraper: Polling run status (elapsed: 65s)... Current status: RUNNING
+2026-07-20 01:11:19 [INFO] scraper: Scraper run finished with final status: SUCCEEDED
+2026-07-20 01:11:19 [INFO] scraper: Downloading raw dataset items...
+2026-07-20 01:11:22 [INFO] scraper: Successfully downloaded 745 raw lead records.
