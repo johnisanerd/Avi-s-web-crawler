@@ -2118,3 +2118,298 @@
 2026-07-20 01:37:34 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/contact
 2026-07-20 01:37:45 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/contact: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
 2026-07-20 01:37:45 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/contact-us
+2026-07-20 01:37:56 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/contact-us: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:37:56 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/about
+2026-07-20 01:38:07 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/about: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:38:07 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/about-us
+2026-07-20 01:38:19 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/about-us: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:38:19 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/team
+2026-07-20 01:38:30 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/team: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:38:30 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/our-team
+2026-07-20 01:38:41 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/our-team: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:38:41 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/agents
+2026-07-20 01:38:52 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/agents: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:38:52 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/staff
+2026-07-20 01:39:03 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/staff: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:39:03 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/brokers
+2026-07-20 01:39:15 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/brokers: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:39:15 [INFO] email_extractor: Visiting homepage for extraction: http://tammy.reecenichols.com/
+2026-07-20 01:39:15 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/contact
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/contact-us
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/about
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/about-us
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/team
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/our-team
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/agents
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/staff
+2026-07-20 01:39:15 [INFO] email_extractor: Crawling candidate URL: http://tammy.reecenichols.com/brokers
+2026-07-20 01:39:15 [INFO] email_extractor: Visiting homepage for extraction: http://irvinemhk.com/
+2026-07-20 01:39:19 [INFO] email_extractor: Visiting homepage for extraction: http://findahomeinkc.com/
+2026-07-20 01:39:20 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:39:20 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/contact
+2026-07-20 01:39:20 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/contact-us
+2026-07-20 01:39:20 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/about
+2026-07-20 01:39:20 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/about-us
+2026-07-20 01:39:21 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/team
+2026-07-20 01:39:21 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/our-team
+2026-07-20 01:39:21 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/agents
+2026-07-20 01:39:21 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/staff
+2026-07-20 01:39:21 [INFO] email_extractor: Crawling candidate URL: http://findahomeinkc.com/brokers
+2026-07-20 01:39:21 [INFO] email_extractor: Visiting homepage for extraction: http://comorealty.com/
+2026-07-20 01:39:23 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:39:23 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/contact
+2026-07-20 01:39:23 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/contact-us
+2026-07-20 01:39:24 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/about
+2026-07-20 01:39:25 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/about-us
+2026-07-20 01:39:25 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/team
+2026-07-20 01:39:26 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/our-team
+2026-07-20 01:39:27 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/agents
+2026-07-20 01:39:28 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/staff
+2026-07-20 01:39:29 [INFO] email_extractor: Crawling candidate URL: http://comorealty.com/brokers
+2026-07-20 01:39:29 [INFO] email_extractor: Visiting homepage for extraction: http://hillskc.com/
+2026-07-20 01:39:31 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:39:31 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/contact
+2026-07-20 01:39:33 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/contact-us
+2026-07-20 01:39:35 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/about
+2026-07-20 01:39:36 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/about-us
+2026-07-20 01:39:38 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/team
+2026-07-20 01:39:39 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/our-team
+2026-07-20 01:39:41 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/agents
+2026-07-20 01:39:43 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/staff
+2026-07-20 01:39:44 [INFO] email_extractor: Crawling candidate URL: http://hillskc.com/brokers
+2026-07-20 01:39:46 [INFO] email_extractor: Visiting homepage for extraction: http://cliffdwellings.com/
+2026-07-20 01:39:49 [INFO] email_extractor: Visiting homepage for extraction: http://denhuysmakelaars.nl/
+2026-07-20 01:39:54 [INFO] email_extractor: Visiting homepage for extraction: http://kingmanksre.com/
+2026-07-20 01:39:55 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:39:55 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/contact
+2026-07-20 01:39:55 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/contact-us
+2026-07-20 01:39:56 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/about
+2026-07-20 01:39:56 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/about-us
+2026-07-20 01:39:56 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/team
+2026-07-20 01:39:57 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/our-team
+2026-07-20 01:39:57 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/agents
+2026-07-20 01:39:57 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/staff
+2026-07-20 01:39:57 [INFO] email_extractor: Crawling candidate URL: http://kingmanksre.com/brokers
+2026-07-20 01:39:58 [INFO] email_extractor: Visiting homepage for extraction: http://vbtverhuurmakelaars.nl/
+2026-07-20 01:40:21 [INFO] email_extractor: Visiting homepage for extraction: http://flinthillsrealtors.net/
+2026-07-20 01:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://kccashrealestate.com/
+2026-07-20 01:40:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:40:30 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/contact
+2026-07-20 01:40:31 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/contact-us
+2026-07-20 01:40:32 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/about
+2026-07-20 01:40:33 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/about-us
+2026-07-20 01:40:34 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/team
+2026-07-20 01:40:35 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/our-team
+2026-07-20 01:40:36 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/agents
+2026-07-20 01:40:37 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/staff
+2026-07-20 01:40:38 [INFO] email_extractor: Crawling candidate URL: http://kccashrealestate.com/brokers
+2026-07-20 01:40:39 [INFO] email_extractor: Visiting homepage for extraction: http://landmarkkansas.com/
+2026-07-20 01:40:40 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:40:40 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/contact
+2026-07-20 01:40:40 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/contact-us
+2026-07-20 01:40:41 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/about
+2026-07-20 01:40:41 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/about-us
+2026-07-20 01:40:41 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/team
+2026-07-20 01:40:42 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/our-team
+2026-07-20 01:40:42 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/agents
+2026-07-20 01:40:42 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/staff
+2026-07-20 01:40:43 [INFO] email_extractor: Crawling candidate URL: http://landmarkkansas.com/brokers
+2026-07-20 01:40:43 [INFO] email_extractor: Visiting homepage for extraction: http://vdkmakelaar.com/
+2026-07-20 01:40:44 [INFO] email_extractor: Visiting homepage for extraction: http://mckay-team.com/
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/contact
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/contact: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /contact (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/contact-us
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/contact-us: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /contact-us (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/about
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/about: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /about (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/about-us
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/about-us: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /about-us (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/team
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/team: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /team (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/our-team
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/our-team: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /our-team (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/agents
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/agents: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /agents (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/staff
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/staff: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /staff (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Crawling candidate URL: http://mckay-team.com/brokers
+2026-07-20 01:40:44 [WARNING] email_extractor: Failed downloading URL http://mckay-team.com/brokers: HTTPConnectionPool(host='mckay-team.com', port=80): Max retries exceeded with url: /brokers (Caused by NameResolutionError("HTTPConnection(host='mckay-team.com', port=80): Failed to resolve 'mckay-team.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:40:44 [INFO] email_extractor: Visiting homepage for extraction: http://crownrealty.com/
+2026-07-20 01:40:46 [INFO] email_extractor: Visiting homepage for extraction: http://realtyprofessionalstopeka.com/
+2026-07-20 01:40:51 [INFO] email_extractor: Visiting homepage for extraction: http://countrywide-realty.com/
+2026-07-20 01:40:53 [INFO] email_extractor: Visiting homepage for extraction: http://cortneysellshomes.com/
+2026-07-20 01:40:56 [INFO] email_extractor: Visiting homepage for extraction: http://resultsre.com/
+2026-07-20 01:40:58 [INFO] email_extractor: Visiting homepage for extraction: http://thehustongroup.com/
+2026-07-20 01:41:01 [INFO] email_extractor: Visiting homepage for extraction: http://soldbykaylajordan.com/
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/contact
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/contact: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /contact (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/contact-us
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/contact-us: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /contact-us (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/about
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/about: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /about (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/about-us
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/about-us: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /about-us (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/team
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/team: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /team (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/our-team
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/our-team: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /our-team (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/agents
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/agents: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /agents (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/staff
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/staff: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /staff (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Crawling candidate URL: http://soldbykaylajordan.com/brokers
+2026-07-20 01:41:01 [WARNING] email_extractor: Failed downloading URL http://soldbykaylajordan.com/brokers: HTTPConnectionPool(host='soldbykaylajordan.com', port=80): Max retries exceeded with url: /brokers (Caused by NameResolutionError("HTTPConnection(host='soldbykaylajordan.com', port=80): Failed to resolve 'soldbykaylajordan.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-20 01:41:01 [INFO] email_extractor: Visiting homepage for extraction: http://reignrealestateks.com/
+2026-07-20 01:41:02 [INFO] email_extractor: Visiting homepage for extraction: http://kansascitykim.com/
+2026-07-20 01:41:14 [WARNING] email_extractor: Failed downloading URL http://kansascitykim.com/: HTTPSConnectionPool(host='seeksells.com', port=443): Max retries exceeded with url: /kim-hibdon (Caused by ConnectTimeoutError(<HTTPSConnection(host='seeksells.com', port=443) at 0x1b9af5c42d0>, 'Connection to seeksells.com timed out. (connect timeout=10)'))
+2026-07-20 01:41:14 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/contact
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/contact-us
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/about
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/about-us
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/team
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/our-team
+2026-07-20 01:41:14 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/agents
+2026-07-20 01:41:15 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/staff
+2026-07-20 01:41:15 [INFO] email_extractor: Crawling candidate URL: http://kansascitykim.com/brokers
+2026-07-20 01:41:15 [INFO] email_extractor: Visiting homepage for extraction: http://topekaviviankane.com/
+2026-07-20 01:41:17 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:41:17 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/contact
+2026-07-20 01:41:17 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/contact-us
+2026-07-20 01:41:18 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/about
+2026-07-20 01:41:18 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/about-us
+2026-07-20 01:41:18 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/team
+2026-07-20 01:41:19 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/our-team
+2026-07-20 01:41:19 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/agents
+2026-07-20 01:41:20 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/staff
+2026-07-20 01:41:20 [INFO] email_extractor: Crawling candidate URL: http://topekaviviankane.com/brokers
+2026-07-20 01:41:20 [INFO] email_extractor: Visiting homepage for extraction: http://coppercreekrealty.com/
+2026-07-20 01:41:22 [INFO] email_extractor: Visiting homepage for extraction: http://shelly-christ.weichertkchomes.com/
+2026-07-20 01:41:23 [INFO] email_extractor: Visiting homepage for extraction: http://boylerealestategroup.com/
+2026-07-20 01:41:26 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:41:26 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/contact
+2026-07-20 01:41:27 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/contact-us
+2026-07-20 01:41:27 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/about
+2026-07-20 01:41:28 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/about-us
+2026-07-20 01:41:29 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/team
+2026-07-20 01:41:29 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/our-team
+2026-07-20 01:41:30 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/agents
+2026-07-20 01:41:30 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/staff
+2026-07-20 01:41:31 [INFO] email_extractor: Crawling candidate URL: http://boylerealestategroup.com/brokers
+2026-07-20 01:41:32 [INFO] email_extractor: Visiting homepage for extraction: http://kcrealtors.com/
+2026-07-20 01:41:36 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:41:36 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/contact
+2026-07-20 01:41:37 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/contact-us
+2026-07-20 01:41:38 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/about
+2026-07-20 01:41:40 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/about-us
+2026-07-20 01:41:41 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/team
+2026-07-20 01:41:42 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/our-team
+2026-07-20 01:41:43 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/agents
+2026-07-20 01:41:45 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/staff
+2026-07-20 01:41:46 [INFO] email_extractor: Crawling candidate URL: http://kcrealtors.com/brokers
+2026-07-20 01:41:47 [INFO] email_extractor: Visiting homepage for extraction: http://rockhillrealestategroup.com/
+2026-07-20 01:41:49 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:49 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:41:49 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/contact
+2026-07-20 01:41:50 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/contact: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /contact (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:50 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/contact-us
+2026-07-20 01:41:51 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/contact-us: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /contact-us (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:51 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/about
+2026-07-20 01:41:52 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/about: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /about (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:52 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/about-us
+2026-07-20 01:41:53 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/about-us: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /about-us (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:53 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/team
+2026-07-20 01:41:54 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/team: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /team (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:54 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/our-team
+2026-07-20 01:41:55 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/our-team: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /our-team (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:55 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/agents
+2026-07-20 01:41:56 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/agents: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /agents (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:56 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/staff
+2026-07-20 01:41:58 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/staff: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /staff (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:58 [INFO] email_extractor: Crawling candidate URL: http://rockhillrealestategroup.com/brokers
+2026-07-20 01:41:59 [WARNING] email_extractor: Failed downloading URL http://rockhillrealestategroup.com/brokers: HTTPSConnectionPool(host='rockhillrealestategroup.com', port=443): Max retries exceeded with url: /brokers (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rockhillrealestategroup.com'. (_ssl.c:1006)")))
+2026-07-20 01:41:59 [INFO] email_extractor: Visiting homepage for extraction: http://justinhorvath.com/
+2026-07-20 01:42:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:42:01 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/contact
+2026-07-20 01:42:02 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/contact-us
+2026-07-20 01:42:03 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/about
+2026-07-20 01:42:05 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/about-us
+2026-07-20 01:42:06 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/team
+2026-07-20 01:42:08 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/our-team
+2026-07-20 01:42:09 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/agents
+2026-07-20 01:42:10 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/staff
+2026-07-20 01:42:12 [INFO] email_extractor: Crawling candidate URL: http://justinhorvath.com/brokers
+2026-07-20 01:42:12 [INFO] email_extractor: Visiting homepage for extraction: http://eliterealestategroupkw.com/
+2026-07-20 01:42:13 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:42:13 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/contact
+2026-07-20 01:42:13 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/contact-us
+2026-07-20 01:42:13 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/about
+2026-07-20 01:42:13 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/about-us
+2026-07-20 01:42:13 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/team
+2026-07-20 01:42:14 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/our-team
+2026-07-20 01:42:14 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/agents
+2026-07-20 01:42:14 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/staff
+2026-07-20 01:42:14 [INFO] email_extractor: Crawling candidate URL: http://eliterealestategroupkw.com/brokers
+2026-07-20 01:42:14 [INFO] email_extractor: Visiting homepage for extraction: http://tlewis.reilly.realestate/
+2026-07-20 01:42:18 [INFO] email_extractor: Visiting homepage for extraction: http://dvrealestateskc.net/
+2026-07-20 01:42:20 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:20 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:42:20 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/contact
+2026-07-20 01:42:21 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/contact: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /contact (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:21 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/contact-us
+2026-07-20 01:42:22 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/contact-us: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /contact-us (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:22 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/about
+2026-07-20 01:42:23 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/about: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /about (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:23 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/about-us
+2026-07-20 01:42:25 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/about-us: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /about-us (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:25 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/team
+2026-07-20 01:42:26 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/team: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /team (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:26 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/our-team
+2026-07-20 01:42:27 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/our-team: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /our-team (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:27 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/agents
+2026-07-20 01:42:28 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/agents: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /agents (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:28 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/staff
+2026-07-20 01:42:29 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/staff: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /staff (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:29 [INFO] email_extractor: Crawling candidate URL: http://dvrealestateskc.net/brokers
+2026-07-20 01:42:30 [WARNING] email_extractor: Failed downloading URL http://dvrealestateskc.net/brokers: HTTPSConnectionPool(host='dvrealestateskc.net', port=443): Max retries exceeded with url: /brokers (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dvrealestateskc.net'. (_ssl.c:1006)")))
+2026-07-20 01:42:30 [INFO] email_extractor: Visiting homepage for extraction: http://tgrouprealty.com/
+2026-07-20 01:42:41 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af5c7690>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:42:41 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:42:41 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/contact
+2026-07-20 01:42:51 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/contact: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /contact (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af61d190>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:42:51 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/contact-us
+2026-07-20 01:43:02 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/contact-us: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /contact-us (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af61de50>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:43:02 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/about
+2026-07-20 01:43:12 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/about: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /about (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af61ee50>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:43:12 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/about-us
+2026-07-20 01:43:22 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/about-us: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /about-us (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af61df10>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:43:22 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/team
+2026-07-20 01:43:32 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/team: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /team (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af6589d0>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:43:32 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/our-team
+2026-07-20 01:43:42 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/our-team: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /our-team (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af658090>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:43:42 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/agents
+2026-07-20 01:43:52 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/agents: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /agents (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af65ab90>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:43:52 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/staff
+2026-07-20 01:44:02 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/staff: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /staff (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af348f90>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:44:02 [INFO] email_extractor: Crawling candidate URL: http://tgrouprealty.com/brokers
+2026-07-20 01:44:12 [WARNING] email_extractor: Failed downloading URL http://tgrouprealty.com/brokers: HTTPConnectionPool(host='tgrouprealty.com', port=80): Max retries exceeded with url: /brokers (Caused by ConnectTimeoutError(<HTTPConnection(host='tgrouprealty.com', port=80) at 0x1b9af67e750>, 'Connection to tgrouprealty.com timed out. (connect timeout=10)'))
+2026-07-20 01:44:12 [INFO] email_extractor: Visiting homepage for extraction: http://popl.co/
+2026-07-20 01:44:14 [INFO] email_extractor: Visiting homepage for extraction: http://realestate-kc.com/
+2026-07-20 01:44:15 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:44:15 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/contact
+2026-07-20 01:44:16 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/contact-us
+2026-07-20 01:44:16 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/about
+2026-07-20 01:44:17 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/about-us
+2026-07-20 01:44:18 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/team
+2026-07-20 01:44:18 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/our-team
+2026-07-20 01:44:19 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/agents
+2026-07-20 01:44:20 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/staff
+2026-07-20 01:44:20 [INFO] email_extractor: Crawling candidate URL: http://realestate-kc.com/brokers
+2026-07-20 01:44:21 [INFO] email_extractor: Visiting homepage for extraction: http://landmarkbyron.com/
+2026-07-20 01:44:22 [INFO] email_extractor: Visiting homepage for extraction: http://keyrealtymhk.com/
+2026-07-20 01:44:25 [INFO] email_extractor: Visiting homepage for extraction: http://ryanandsons.com/

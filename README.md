@@ -1,3 +1,5 @@
+![Banner](assets/images.jpg)
+
 # Real Estate Lead-Generation System
 
 A modular, production-grade lead-generation system that scrapes residential real estate brokerages using the Apify Google Maps Scraper, normalizes the data, applies residential heuristics, deduplicates results using fuzzy logic (`rapidfuzz`), and exports to a premium formatted Excel spreadsheet.
