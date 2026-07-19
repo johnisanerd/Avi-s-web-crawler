@@ -2079,3 +2079,42 @@
 2026-07-20 01:36:22 [INFO] email_extractor: Crawling candidate URL: http://juliereicherthomes.com/staff
 2026-07-20 01:36:22 [INFO] email_extractor: Crawling candidate URL: http://juliereicherthomes.com/brokers
 2026-07-20 01:36:23 [INFO] email_extractor: Visiting homepage for extraction: http://compass.com/
+2026-07-20 01:36:26 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:36:26 [INFO] email_extractor: Crawling candidate URL: http://compass.com/contact
+2026-07-20 01:36:27 [INFO] email_extractor: Crawling candidate URL: http://compass.com/contact-us
+2026-07-20 01:36:29 [INFO] email_extractor: Crawling candidate URL: http://compass.com/about
+2026-07-20 01:36:30 [INFO] email_extractor: Crawling candidate URL: http://compass.com/about-us
+2026-07-20 01:36:31 [INFO] email_extractor: Crawling candidate URL: http://compass.com/team
+2026-07-20 01:36:32 [INFO] email_extractor: Crawling candidate URL: http://compass.com/our-team
+2026-07-20 01:36:33 [INFO] email_extractor: Crawling candidate URL: http://compass.com/agents
+2026-07-20 01:36:35 [INFO] email_extractor: Crawling candidate URL: http://compass.com/staff
+2026-07-20 01:36:36 [INFO] email_extractor: Crawling candidate URL: http://compass.com/brokers
+2026-07-20 01:36:37 [INFO] email_extractor: Visiting homepage for extraction: http://selfrealestategroup.com/
+2026-07-20 01:36:38 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:36:38 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/contact
+2026-07-20 01:36:40 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/contact-us
+2026-07-20 01:36:41 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/about
+2026-07-20 01:36:42 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/about-us
+2026-07-20 01:36:43 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/team
+2026-07-20 01:36:46 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/our-team
+2026-07-20 01:36:47 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/agents
+2026-07-20 01:36:49 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/staff
+2026-07-20 01:36:51 [INFO] email_extractor: Crawling candidate URL: http://selfrealestategroup.com/brokers
+2026-07-20 01:36:52 [INFO] email_extractor: Visiting homepage for extraction: http://elitewichita.com/
+2026-07-20 01:36:54 [INFO] email_extractor: Visiting homepage for extraction: http://summitwayrealty.com/
+2026-07-20 01:37:04 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/contact
+2026-07-20 01:37:07 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/contact-us
+2026-07-20 01:37:09 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/about
+2026-07-20 01:37:12 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/about-us
+2026-07-20 01:37:14 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/team
+2026-07-20 01:37:15 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/our-team
+2026-07-20 01:37:17 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/agents
+2026-07-20 01:37:19 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/staff
+2026-07-20 01:37:21 [INFO] email_extractor: Crawling candidate URL: http://summitwayrealty.com/brokers
+2026-07-20 01:37:22 [INFO] email_extractor: Visiting homepage for extraction: http://brooksiderealestate.com/
+2026-07-20 01:37:34 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:37:34 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-20 01:37:34 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/contact
+2026-07-20 01:37:45 [WARNING] email_extractor: Failed downloading URL http://brooksiderealestate.com/contact: HTTPSConnectionPool(host='brooksiderealestate.com', port=443): Read timed out. (read timeout=10)
+2026-07-20 01:37:45 [INFO] email_extractor: Crawling candidate URL: http://brooksiderealestate.com/contact-us
