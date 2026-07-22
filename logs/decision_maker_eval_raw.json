@@ -1,0 +1,323 @@
+[
+  {
+    "domain": "apexrealtyaustin.com",
+    "business_name": "Apex Realty Group",
+    "expected": {
+      "name": "Jane Doe",
+      "title": "Founder & Principal Broker",
+      "email": "jane.doe@apexrealtyaustin.com",
+      "status": "FOUND"
+    },
+    "actual": {
+      "name": "Jane Doe",
+      "title": "Principal Broker",
+      "email": "jane.doe@apexrealtyaustin.com",
+      "status": "FOUND",
+      "confidence": 100
+    },
+    "dm_matched": true,
+    "email_matched": true,
+    "processing_time_ms": 23.02,
+    "evidence": [
+      {
+        "page_url": "http://apexrealtyaustin.com/about",
+        "page_type": "about",
+        "title_found": "Principal Broker",
+        "matched_name": "Jane Doe",
+        "matched_email": null,
+        "confidence_delta": 36.0,
+        "reason": "Leadership title base weight for Principal Broker"
+      },
+      {
+        "page_url": "http://apexrealtyaustin.com/about",
+        "page_type": "about",
+        "title_found": "Principal Broker",
+        "matched_name": "Jane Doe",
+        "matched_email": null,
+        "confidence_delta": 20.0,
+        "reason": "Highest priority page type match (about)"
+      },
+      {
+        "page_url": "http://apexrealtyaustin.com/about",
+        "page_type": "about",
+        "title_found": "Principal Broker",
+        "matched_name": "Jane Doe",
+        "matched_email": "jane.doe@apexrealtyaustin.com",
+        "confidence_delta": 30.0,
+        "reason": "Verified email via FIRST_DOT_LAST"
+      },
+      {
+        "page_url": "http://apexrealtyaustin.com/about",
+        "page_type": "about",
+        "title_found": "Principal Broker",
+        "matched_name": "Jane Doe",
+        "matched_email": null,
+        "confidence_delta": 15.0,
+        "reason": "Company social profile verification confirmed"
+      },
+      {
+        "page_url": "http://apexrealtyaustin.com/about",
+        "page_type": "about",
+        "title_found": "Principal Broker",
+        "matched_name": "Jane Doe",
+        "matched_email": null,
+        "confidence_delta": 10.0,
+        "reason": "Dual executive leadership title combination detected"
+      },
+      {
+        "page_url": "http://apexrealtyaustin.com/about",
+        "page_type": "about",
+        "title_found": "Principal Broker",
+        "matched_name": "Jane Doe",
+        "matched_email": null,
+        "confidence_delta": 10.0,
+        "reason": "Candidate appeared on 2 distinct pages"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "domain": "sunsetsir.com",
+    "business_name": "Sunset Sotheby's International Realty",
+    "expected": {
+      "name": "Robert Sterling",
+      "title": "Managing Broker",
+      "email": "rsterling@sunsetsir.com",
+      "status": "FOUND"
+    },
+    "actual": {
+      "name": "Robert Sterling",
+      "title": "Managing Broker",
+      "email": "rsterling@sunsetsir.com",
+      "status": "FOUND",
+      "confidence": 93
+    },
+    "dm_matched": true,
+    "email_matched": true,
+    "processing_time_ms": 11.94,
+    "evidence": [
+      {
+        "page_url": "http://sunsetsir.com/leadership",
+        "page_type": "leadership",
+        "title_found": "Managing Broker",
+        "matched_name": "Robert Sterling",
+        "matched_email": null,
+        "confidence_delta": 36.0,
+        "reason": "Leadership title base weight for Managing Broker"
+      },
+      {
+        "page_url": "http://sunsetsir.com/leadership",
+        "page_type": "leadership",
+        "title_found": "Managing Broker",
+        "matched_name": "Robert Sterling",
+        "matched_email": null,
+        "confidence_delta": 17.0,
+        "reason": "Highest priority page type match (leadership)"
+      },
+      {
+        "page_url": "http://sunsetsir.com/leadership",
+        "page_type": "leadership",
+        "title_found": "Managing Broker",
+        "matched_name": "Robert Sterling",
+        "matched_email": "rsterling@sunsetsir.com",
+        "confidence_delta": 25.0,
+        "reason": "Verified email via FIRST_INITIAL_LAST"
+      },
+      {
+        "page_url": "http://sunsetsir.com/leadership",
+        "page_type": "leadership",
+        "title_found": "Managing Broker",
+        "matched_name": "Robert Sterling",
+        "matched_email": null,
+        "confidence_delta": 15.0,
+        "reason": "Company social profile verification confirmed"
+      },
+      {
+        "page_url": "http://sunsetsir.com/leadership",
+        "page_type": "leadership",
+        "title_found": "Managing Broker",
+        "matched_name": "Robert Sterling",
+        "matched_email": null,
+        "confidence_delta": 10.0,
+        "reason": "Dual executive leadership title combination detected"
+      },
+      {
+        "page_url": "http://sunsetsir.com/leadership",
+        "page_type": "leadership",
+        "title_found": "Managing Broker",
+        "matched_name": "Robert Sterling",
+        "matched_email": null,
+        "confidence_delta": -10.0,
+        "reason": "Candidate appeared on only 1 page"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "domain": "coastalhomesmiami.com",
+    "business_name": "Coastal Homes Realty",
+    "expected": {
+      "name": "Carlos Mendez",
+      "title": "Owner",
+      "email": "carlos@coastalhomesmiami.com",
+      "status": "FOUND"
+    },
+    "actual": {
+      "name": "Carlos Mendez",
+      "title": "Founder",
+      "email": "carlos@coastalhomesmiami.com",
+      "status": "FOUND",
+      "confidence": 100
+    },
+    "dm_matched": true,
+    "email_matched": true,
+    "processing_time_ms": 22.55,
+    "evidence": [
+      {
+        "page_url": "http://coastalhomesmiami.com/team",
+        "page_type": "team",
+        "title_found": "Founder",
+        "matched_name": "Carlos Mendez",
+        "matched_email": null,
+        "confidence_delta": 40.0,
+        "reason": "Leadership title base weight for Founder"
+      },
+      {
+        "page_url": "http://coastalhomesmiami.com/team",
+        "page_type": "team",
+        "title_found": "Founder",
+        "matched_name": "Carlos Mendez",
+        "matched_email": null,
+        "confidence_delta": 18.0,
+        "reason": "Highest priority page type match (team)"
+      },
+      {
+        "page_url": "http://coastalhomesmiami.com/team",
+        "page_type": "team",
+        "title_found": "Founder",
+        "matched_name": "Carlos Mendez",
+        "matched_email": "carlos@coastalhomesmiami.com",
+        "confidence_delta": 22.0,
+        "reason": "Verified email via FIRST_NAME"
+      },
+      {
+        "page_url": "http://coastalhomesmiami.com/team",
+        "page_type": "team",
+        "title_found": "Founder",
+        "matched_name": "Carlos Mendez",
+        "matched_email": null,
+        "confidence_delta": 10.0,
+        "reason": "Dual executive leadership title combination detected"
+      },
+      {
+        "page_url": "http://coastalhomesmiami.com/team",
+        "page_type": "team",
+        "title_found": "Founder",
+        "matched_name": "Carlos Mendez",
+        "matched_email": null,
+        "confidence_delta": 10.0,
+        "reason": "Candidate appeared on 2 distinct pages"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "domain": "urbanlivingny.com",
+    "business_name": "Urban Living New York",
+    "expected": {
+      "name": "Sarah Jenkins",
+      "title": "President",
+      "email": null,
+      "status": "FOUND"
+    },
+    "actual": {
+      "name": "Sarah Jenkins",
+      "title": "Ceo",
+      "email": null,
+      "status": "NO_EMAIL_FOUND",
+      "confidence": 54
+    },
+    "dm_matched": true,
+    "email_matched": true,
+    "processing_time_ms": 20.36,
+    "evidence": [
+      {
+        "page_url": "http://urbanlivingny.com/about-us",
+        "page_type": "about",
+        "title_found": "Ceo",
+        "matched_name": "Sarah Jenkins",
+        "matched_email": null,
+        "confidence_delta": 34.0,
+        "reason": "Leadership title base weight for Ceo"
+      },
+      {
+        "page_url": "http://urbanlivingny.com/about-us",
+        "page_type": "about",
+        "title_found": "Ceo",
+        "matched_name": "Sarah Jenkins",
+        "matched_email": null,
+        "confidence_delta": 20.0,
+        "reason": "Highest priority page type match (about)"
+      },
+      {
+        "page_url": "http://urbanlivingny.com/about-us",
+        "page_type": "about",
+        "title_found": "Ceo",
+        "matched_name": "Sarah Jenkins",
+        "matched_email": null,
+        "confidence_delta": -15.0,
+        "reason": "No verified personal email found on website"
+      },
+      {
+        "page_url": "http://urbanlivingny.com/about-us",
+        "page_type": "about",
+        "title_found": "Ceo",
+        "matched_name": "Sarah Jenkins",
+        "matched_email": null,
+        "confidence_delta": 15.0,
+        "reason": "Company social profile verification confirmed"
+      },
+      {
+        "page_url": "http://urbanlivingny.com/about-us",
+        "page_type": "about",
+        "title_found": "Ceo",
+        "matched_name": "Sarah Jenkins",
+        "matched_email": null,
+        "confidence_delta": 10.0,
+        "reason": "Dual executive leadership title combination detected"
+      },
+      {
+        "page_url": "http://urbanlivingny.com/about-us",
+        "page_type": "about",
+        "title_found": "Ceo",
+        "matched_name": "Sarah Jenkins",
+        "matched_email": null,
+        "confidence_delta": -10.0,
+        "reason": "Candidate appeared on only 1 page"
+      }
+    ],
+    "conflicts": []
+  },
+  {
+    "domain": "genericrealtyfl.com",
+    "business_name": "Generic Realty Florida",
+    "expected": {
+      "name": null,
+      "title": null,
+      "email": null,
+      "status": "NO_DECISION_MAKER"
+    },
+    "actual": {
+      "name": null,
+      "title": null,
+      "email": null,
+      "status": "NO_DECISION_MAKER",
+      "confidence": 0
+    },
+    "dm_matched": true,
+    "email_matched": true,
+    "processing_time_ms": 3.58,
+    "evidence": [],
+    "conflicts": []
+  }
+]

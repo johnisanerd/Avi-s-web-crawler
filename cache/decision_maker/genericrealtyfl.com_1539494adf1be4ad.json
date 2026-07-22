@@ -1,0 +1,14 @@
+{
+  "decision_maker_name": null,
+  "decision_maker_title": null,
+  "decision_maker_source": null,
+  "confidence_score": 0,
+  "verified_email": null,
+  "email_source": null,
+  "email_verified": false,
+  "status": "NO_DECISION_MAKER",
+  "processing_time_ms": 0.0,
+  "evidence": [],
+  "conflicts": [],
+  "decision_makers": []
+}

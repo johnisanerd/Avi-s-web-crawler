@@ -1,0 +1,220 @@
+{
+  "decision_maker_name": "Jane Doe",
+  "decision_maker_title": "Principal Broker",
+  "decision_maker_source": "http://apexrealtyaustin.com/about",
+  "confidence_score": 100,
+  "verified_email": "jane.doe@apexrealtyaustin.com",
+  "email_source": "http://apexrealtyaustin.com/about",
+  "email_verified": true,
+  "status": "FOUND",
+  "processing_time_ms": 0.0,
+  "evidence": [
+    {
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "title_found": "Principal Broker",
+      "matched_name": "Jane Doe",
+      "matched_email": null,
+      "confidence_delta": 36.0,
+      "reason": "Leadership title base weight for Principal Broker"
+    },
+    {
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "title_found": "Principal Broker",
+      "matched_name": "Jane Doe",
+      "matched_email": null,
+      "confidence_delta": 20.0,
+      "reason": "Highest priority page type match (about)"
+    },
+    {
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "title_found": "Principal Broker",
+      "matched_name": "Jane Doe",
+      "matched_email": "jane.doe@apexrealtyaustin.com",
+      "confidence_delta": 30.0,
+      "reason": "Verified email via FIRST_DOT_LAST"
+    },
+    {
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "title_found": "Principal Broker",
+      "matched_name": "Jane Doe",
+      "matched_email": null,
+      "confidence_delta": 15.0,
+      "reason": "Company social profile verification confirmed"
+    },
+    {
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "title_found": "Principal Broker",
+      "matched_name": "Jane Doe",
+      "matched_email": null,
+      "confidence_delta": 10.0,
+      "reason": "Dual executive leadership title combination detected"
+    },
+    {
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "title_found": "Principal Broker",
+      "matched_name": "Jane Doe",
+      "matched_email": null,
+      "confidence_delta": 10.0,
+      "reason": "Candidate appeared on 2 distinct pages"
+    }
+  ],
+  "conflicts": [],
+  "decision_makers": [
+    {
+      "name": "Jane Doe",
+      "title": "Principal Broker",
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "snippet": "Jane Doe Founder & Principal Broker Email Jane",
+      "matched_email": "jane.doe@apexrealtyaustin.com",
+      "email_matching_strategy": "FIRST_DOT_LAST",
+      "title_weight": 90.0,
+      "page_weight": 100.0,
+      "email_weight": 30.0,
+      "social_weight": 15.0,
+      "score": 100.0,
+      "is_primary": true,
+      "evidence": [
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Principal Broker",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 36.0,
+          "reason": "Leadership title base weight for Principal Broker"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Principal Broker",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 20.0,
+          "reason": "Highest priority page type match (about)"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Principal Broker",
+          "matched_name": "Jane Doe",
+          "matched_email": "jane.doe@apexrealtyaustin.com",
+          "confidence_delta": 30.0,
+          "reason": "Verified email via FIRST_DOT_LAST"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Principal Broker",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 15.0,
+          "reason": "Company social profile verification confirmed"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Principal Broker",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Principal Broker",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Candidate appeared on 2 distinct pages"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 36.0,
+        "page_weight": 20.0,
+        "email_bonus": 30.0,
+        "social_bonus": 15.0,
+        "dual_title_combo_bonus": 10.0,
+        "repeat_bonus": 10.0,
+        "final_score": 100.0
+      }
+    },
+    {
+      "name": "Jane Doe",
+      "title": "Founder",
+      "page_url": "http://apexrealtyaustin.com/about",
+      "page_type": "about",
+      "snippet": "Jane Doe | Founder & Principal Broker",
+      "matched_email": "jane.doe@apexrealtyaustin.com",
+      "email_matching_strategy": "FIRST_DOT_LAST",
+      "title_weight": 100.0,
+      "page_weight": 100.0,
+      "email_weight": 30.0,
+      "social_weight": 15.0,
+      "score": 100.0,
+      "is_primary": false,
+      "evidence": [
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Founder",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 40.0,
+          "reason": "Leadership title base weight for Founder"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Founder",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 20.0,
+          "reason": "Highest priority page type match (about)"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Founder",
+          "matched_name": "Jane Doe",
+          "matched_email": "jane.doe@apexrealtyaustin.com",
+          "confidence_delta": 30.0,
+          "reason": "Verified email via FIRST_DOT_LAST"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Founder",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 15.0,
+          "reason": "Company social profile verification confirmed"
+        },
+        {
+          "page_url": "http://apexrealtyaustin.com/about",
+          "page_type": "about",
+          "title_found": "Founder",
+          "matched_name": "Jane Doe",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 40.0,
+        "page_weight": 20.0,
+        "email_bonus": 30.0,
+        "social_bonus": 15.0,
+        "dual_title_combo_bonus": 10.0,
+        "final_score": 100.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "timestamp": "2026-07-22 01:36:49",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 60.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 58.4,
+      "avg_confidence_correct": 55.5,
+      "avg_confidence_incorrect": 70.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 99.76,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:36:59",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 40.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 20.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 51.2,
+      "avg_confidence_correct": 58.7,
+      "avg_confidence_incorrect": 40.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 90.62,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:37:11",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 40.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 20.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 51.2,
+      "avg_confidence_correct": 58.7,
+      "avg_confidence_incorrect": 40.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 0.59,
+      "peak_memory_mb": 0.04,
+      "cache_hit_rate_pct": 100.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:37:11",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 60.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 58.4,
+      "avg_confidence_correct": 55.5,
+      "avg_confidence_incorrect": 70.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 0.6,
+      "peak_memory_mb": 0.05,
+      "cache_hit_rate_pct": 100.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:38:20",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 40.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 20.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 51.2,
+      "avg_confidence_correct": 58.7,
+      "avg_confidence_incorrect": 40.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 0.54,
+      "peak_memory_mb": 0.04,
+      "cache_hit_rate_pct": 100.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:38:20",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 60.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 58.4,
+      "avg_confidence_correct": 55.5,
+      "avg_confidence_incorrect": 70.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 0.66,
+      "peak_memory_mb": 0.05,
+      "cache_hit_rate_pct": 100.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:48:46",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 60.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 58.4,
+      "avg_confidence_correct": 55.5,
+      "avg_confidence_incorrect": 70.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 0.86,
+      "peak_memory_mb": 0.06,
+      "cache_hit_rate_pct": 100.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:50:45",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 60.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 67.4,
+      "avg_confidence_correct": 61.8,
+      "avg_confidence_incorrect": 90.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 92.18,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:51:02",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 60.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 20.0,
+      "avg_confidence_overall": 67.4,
+      "avg_confidence_correct": 61.8,
+      "avg_confidence_incorrect": 90.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 90.84,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:51:20",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 80.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 89.84,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:51:35",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 87.77,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:51:52",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 80.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 20.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 59.2,
+      "avg_confidence_correct": 62.2,
+      "avg_confidence_incorrect": 47.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 86.82,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:52:05",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 54.2,
+      "avg_confidence_correct": 54.2,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 92.88,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:52:15",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 54.2,
+      "avg_confidence_correct": 54.2,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 91.31,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 01:52:15",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 15.3,
+      "peak_memory_mb": 0.1,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 11:37:32",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 125.54,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 11:40:24",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 54.2,
+      "avg_confidence_correct": 54.2,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 178.98,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 11:40:24",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 15.24,
+      "peak_memory_mb": 0.1,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 11:43:38",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 158.6,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 11:43:47",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 54.2,
+      "avg_confidence_correct": 54.2,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 40.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 144.87,
+      "peak_memory_mb": 0.2,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-07-22 11:43:47",
+    "benchmark_version": "1.0.0",
+    "metrics": {
+      "total_companies": 5,
+      "decision_maker_accuracy_pct": 100.0,
+      "email_verification_precision_pct": 100.0,
+      "false_positive_rate_pct": 0.0,
+      "false_negative_rate_pct": 0.0,
+      "avg_confidence_overall": 69.4,
+      "avg_confidence_correct": 69.4,
+      "avg_confidence_incorrect": 0.0,
+      "no_decision_maker_rate_pct": 20.0,
+      "generic_email_rejection_rate_pct": 100.0,
+      "avg_processing_time_ms": 16.29,
+      "peak_memory_mb": 0.1,
+      "cache_hit_rate_pct": 0.0,
+      "calibration_error_pct": 0.0
+    }
+  }
+]

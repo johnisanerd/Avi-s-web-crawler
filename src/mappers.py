@@ -137,7 +137,8 @@ def lead_to_clay_lead(lead: Lead) -> ClayLead:
         cdn_provider=lead.cdn_provider,
         technology_confidence=lead.technology_confidence,
         technology_reasoning=lead.technology_reasoning,
-        technology_model_version=lead.technology_model_version
+        technology_model_version=lead.technology_model_version,
+        decision_maker=lead.decision_maker
     )
 
 
@@ -213,7 +214,14 @@ def lead_to_standard_dict(lead: Lead) -> Dict[str, Any]:
         "CDN Provider": lead.cdn_provider,
         "Technology Confidence": lead.technology_confidence,
         "Technology Reasoning": ", ".join(lead.technology_reasoning),
-        "Technology Model Version": lead.technology_model_version
+        "Technology Model Version": lead.technology_model_version,
+        "Decision Maker Name": lead.decision_maker.decision_maker_name if lead.decision_maker else None,
+        "Decision Maker Title": lead.decision_maker.decision_maker_title if lead.decision_maker else None,
+        "Decision Maker Confidence": lead.decision_maker.confidence_score if lead.decision_maker else 0,
+        "Decision Maker Status": lead.decision_maker.status if lead.decision_maker else "NO_DECISION_MAKER",
+        "Verified Email": lead.decision_maker.verified_email if lead.decision_maker else None,
+        "Email Source": lead.decision_maker.email_source if lead.decision_maker else None,
+        "Email Verified": lead.decision_maker.email_verified if lead.decision_maker else False
     }
 
 
@@ -276,5 +284,12 @@ def clay_lead_to_dict(clay: ClayLead) -> Dict[str, str]:
         "CDN Provider": clay.cdn_provider,
         "Technology Confidence": clay.technology_confidence,
         "Technology Reasoning": ", ".join(clay.technology_reasoning),
-        "Technology Model Version": clay.technology_model_version
+        "Technology Model Version": clay.technology_model_version,
+        "Decision Maker Name": clay.decision_maker.decision_maker_name if clay.decision_maker else None,
+        "Decision Maker Title": clay.decision_maker.decision_maker_title if clay.decision_maker else None,
+        "Decision Maker Confidence": clay.decision_maker.confidence_score if clay.decision_maker else 0,
+        "Decision Maker Status": clay.decision_maker.status if clay.decision_maker else "NO_DECISION_MAKER",
+        "Verified Email": clay.decision_maker.verified_email if clay.decision_maker else None,
+        "Email Source": clay.decision_maker.email_source if clay.decision_maker else None,
+        "Email Verified": clay.decision_maker.email_verified if clay.decision_maker else False
     }

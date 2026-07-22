@@ -2413,3 +2413,1382 @@
 2026-07-20 01:44:21 [INFO] email_extractor: Visiting homepage for extraction: http://landmarkbyron.com/
 2026-07-20 01:44:22 [INFO] email_extractor: Visiting homepage for extraction: http://keyrealtymhk.com/
 2026-07-20 01:44:25 [INFO] email_extractor: Visiting homepage for extraction: http://ryanandsons.com/
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:22:17 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:22:17 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:22:18 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:22:18 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:22:18 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:27:30 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:27:30 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:27:30 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:28:09 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:09 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:28:09 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:28:33 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:33 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:28:33 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:28:58 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:28:59 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:28:59 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:29:00 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:00 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:29:00 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:12 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:29:13 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:29:13 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:29:14 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:14 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:29:14 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:32 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:29:33 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:29:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:29:34 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:29:34 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:29:34 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:29 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:32:30 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:32:30 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:32:30 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:32:30 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:32:30 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:32:31 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:32:31 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:32:31 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:32:31 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:32:32 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:32:32 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:32:32 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:36:13 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:36:23 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:36:23 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:36:23 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:36:23 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:36:23 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:36:23 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact-us: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:36:23 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:36:23 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:36:23 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:36:23 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about-us: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:36:23 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:36:33 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/team: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:36:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:36:33 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/our-team: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:36:33 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:36:43 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/agents: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:36:43 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:36:53 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/staff: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:36:53 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:37:03 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/brokers: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:37:03 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:03 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:03 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:04 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:04 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:37:04 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:04 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:37:04 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:11 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:37:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:37:11 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:37:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:37:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:37:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact-us: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:37:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:37:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:37:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:37:21 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about-us: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:37:21 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:37:31 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/team: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:37:31 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:37:31 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/our-team: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:37:31 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:37:41 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/agents: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:37:41 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:37:41 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/staff: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:37:41 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:37:51 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/brokers: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:37:51 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:51 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:51 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:51 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:52 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:52 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:37:52 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:37:52 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:37:52 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:38:20 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:38:20 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:38:20 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:38:20 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:38:30 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:38:30 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:38:40 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact-us: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:38:40 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:38:50 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:38:50 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:38:51 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about-us: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:38:51 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:39:01 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/team: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:39:01 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:39:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/our-team: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-07-22 01:39:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:39:21 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/agents: HTTPConnectionPool(host='apexrealty.com', port=80): Read timed out. (read timeout=10)
+2026-07-22 01:39:21 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:39:41 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/staff: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /staff (Caused by ConnectTimeoutError(<HTTPConnection(host='apexrealty.com', port=80) at 0x1cd9ac80bd0>, 'Connection to apexrealty.com timed out. (connect timeout=10)'))
+2026-07-22 01:39:41 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/brokers: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /brokers (Caused by ConnectTimeoutError(<HTTPConnection(host='apexrealty.com', port=80) at 0x1cd9ac81ed0>, 'Connection to apexrealty.com timed out. (connect timeout=10)'))
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:40:01 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:40:01 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:40:01 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:52:15 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 01:52:35 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='apexrealty.com', port=80) at 0x232ccf92f50>, 'Connection to apexrealty.com timed out. (connect timeout=10)'))
+2026-07-22 01:52:35 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:52:35 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 01:52:55 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /contact (Caused by ConnectTimeoutError(<HTTPConnection(host='apexrealty.com', port=80) at 0x232cd3fa650>, 'Connection to apexrealty.com timed out. (connect timeout=10)'))
+2026-07-22 01:52:55 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 01:53:10 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/contact-us: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /contact-us (Caused by NewConnectionError("HTTPConnection(host='apexrealty.com', port=80): Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine"))
+2026-07-22 01:53:10 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /about (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/about-us: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /about-us (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/team: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /team (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/our-team: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /our-team (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/agents: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /agents (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/staff: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /staff (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://apexrealty.com/brokers: HTTPConnectionPool(host='apexrealty.com', port=80): Max retries exceeded with url: /brokers (Caused by NameResolutionError("HTTPConnection(host='apexrealty.com', port=80): Failed to resolve 'apexrealty.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 01:53:11 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 01:53:11 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 01:53:11 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:39:46 [INFO] email_extractor: Visiting homepage for extraction: https://apexrealty.com/
+2026-07-22 11:39:47 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/contact
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/contact-us
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/about
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/about-us
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/team
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/our-team
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/agents
+2026-07-22 11:39:47 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/staff
+2026-07-22 11:39:48 [INFO] email_extractor: Crawling candidate URL: https://apexrealty.com/brokers
+2026-07-22 11:40:24 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 11:40:25 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:40:25 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 11:40:25 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 11:40:25 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 11:40:25 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 11:40:25 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 11:40:25 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 11:40:26 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 11:40:26 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 11:40:26 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 11:40:27 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:40:27 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 11:40:27 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:47 [INFO] email_extractor: Visiting homepage for extraction: http://apexrealty.com/
+2026-07-22 11:43:48 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:43:48 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact
+2026-07-22 11:43:48 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/contact-us
+2026-07-22 11:43:48 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about
+2026-07-22 11:43:48 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/about-us
+2026-07-22 11:43:48 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/team
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/our-team
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/agents
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/staff
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://apexrealty.com/brokers
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://realty.com/
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [INFO] email_extractor: Visiting homepage for extraction: http://testsite.com/
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/contact-us
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/contact-us: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/about-us
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/about-us: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/team
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/team: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/our-team
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/our-team: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/agents
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/agents: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/staff
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/staff: Connection timed out
+2026-07-22 11:43:49 [INFO] email_extractor: Crawling candidate URL: http://testsite.com/brokers
+2026-07-22 11:43:49 [WARNING] email_extractor: Failed downloading URL http://testsite.com/brokers: Connection timed out
+2026-07-22 11:43:50 [INFO] email_extractor: Visiting homepage for extraction: http://pipelinea.com/
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: No email found on homepage. Crawling subpages...
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/contact-us
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/contact-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/about-us
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/about-us: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/team
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/our-team
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/our-team: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/agents
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/agents: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/staff
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/staff: 'NoneType' object has no attribute 'status_code'
+2026-07-22 11:43:50 [INFO] email_extractor: Crawling candidate URL: http://pipelinea.com/brokers
+2026-07-22 11:43:50 [WARNING] email_extractor: Failed downloading URL http://pipelinea.com/brokers: 'NoneType' object has no attribute 'status_code'

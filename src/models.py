@@ -96,6 +96,7 @@ class Lead:
     technology_confidence: str = "Low"
     technology_reasoning: List[str] = field(default_factory=list)
     technology_model_version: str = ""
+    decision_maker: Optional[Any] = None
 
 
 @dataclass(slots=True)
@@ -152,3 +153,87 @@ class ClayLead:
     technology_confidence: str = "Low"
     technology_reasoning: List[str] = field(default_factory=list)
     technology_model_version: str = ""
+    decision_maker: Optional[Any] = None
+
+
+@dataclass(slots=True)
+class PageBlock:
+    """
+    Represents a structured section/block extracted from an HTML page.
+    Decouples HTML parsing from candidate extraction logic.
+    """
+    page_url: str
+    page_type: str
+    heading: Optional[str] = None
+    subheading: Optional[str] = None
+    text: str = ""
+    emails: List[str] = field(default_factory=list)
+    links: List[str] = field(default_factory=list)
+    container_type: str = "general"
+
+
+@dataclass(slots=True)
+class DecisionMakerEvidence:
+    """
+    Tracks detailed evidence and confidence delta adjustments for a decision maker score decision.
+    """
+    page_url: str
+    page_type: str
+    title_found: str
+    matched_name: str
+    matched_email: Optional[str] = None
+    confidence_delta: float = 0.0
+    reason: str = ""
+
+
+@dataclass(slots=True)
+class DecisionMakerCandidate:
+    """
+    Intermediate candidate object representing a potential decision maker during pipeline execution.
+    """
+    name: str
+    title: str
+    page_url: str
+    page_type: str
+    snippet: str
+    matched_email: Optional[str] = None
+    email_matching_strategy: Optional[str] = None
+    title_weight: float = 0.0
+    page_weight: float = 0.0
+    email_weight: float = 0.0
+    social_weight: float = 0.0
+    score: float = 0.0
+    is_primary: bool = False
+    evidence: List[DecisionMakerEvidence] = field(default_factory=list)
+    scoring_breakdown: Dict[str, float] = field(default_factory=dict)
+
+
+@dataclass(slots=True)
+class DecisionMaker:
+    """
+    Final structured output of the Decision Maker Intelligence module.
+    """
+    decision_maker_name: Optional[str] = None
+    decision_maker_title: Optional[str] = None
+    decision_maker_source: Optional[str] = None
+    confidence_score: int = 0
+    verified_email: Optional[str] = None
+    email_source: Optional[str] = None
+    email_verified: bool = False
+    status: str = "NO_DECISION_MAKER"
+    processing_time_ms: float = 0.0
+    evidence: List[Dict[str, Any]] = field(default_factory=list)
+    conflicts: List[Dict[str, Any]] = field(default_factory=list)
+    decision_makers: List[Dict[str, Any]] = field(default_factory=list)
+
+
+@dataclass(slots=True)
+class WebsiteSnapshot:
+    """
+    Generic website snapshot abstraction passed into intelligence modules.
+    Decouples modules from EmailExtractor/scraper internals.
+    """
+    domain: str
+    pages: Dict[str, str] = field(default_factory=dict)  # url -> html_content
+    social_profiles: Dict[str, str] = field(default_factory=dict)  # platform -> url
+

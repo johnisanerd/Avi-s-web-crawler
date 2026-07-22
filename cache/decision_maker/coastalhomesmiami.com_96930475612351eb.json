@@ -1,0 +1,191 @@
+{
+  "decision_maker_name": "Carlos Mendez",
+  "decision_maker_title": "Founder",
+  "decision_maker_source": "http://coastalhomesmiami.com/team",
+  "confidence_score": 100,
+  "verified_email": "carlos@coastalhomesmiami.com",
+  "email_source": "http://coastalhomesmiami.com/team",
+  "email_verified": true,
+  "status": "FOUND",
+  "processing_time_ms": 0.0,
+  "evidence": [
+    {
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "title_found": "Founder",
+      "matched_name": "Carlos Mendez",
+      "matched_email": null,
+      "confidence_delta": 40.0,
+      "reason": "Leadership title base weight for Founder"
+    },
+    {
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "title_found": "Founder",
+      "matched_name": "Carlos Mendez",
+      "matched_email": null,
+      "confidence_delta": 18.0,
+      "reason": "Highest priority page type match (team)"
+    },
+    {
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "title_found": "Founder",
+      "matched_name": "Carlos Mendez",
+      "matched_email": "carlos@coastalhomesmiami.com",
+      "confidence_delta": 22.0,
+      "reason": "Verified email via FIRST_NAME"
+    },
+    {
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "title_found": "Founder",
+      "matched_name": "Carlos Mendez",
+      "matched_email": null,
+      "confidence_delta": 10.0,
+      "reason": "Dual executive leadership title combination detected"
+    },
+    {
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "title_found": "Founder",
+      "matched_name": "Carlos Mendez",
+      "matched_email": null,
+      "confidence_delta": 10.0,
+      "reason": "Candidate appeared on 2 distinct pages"
+    }
+  ],
+  "conflicts": [],
+  "decision_makers": [
+    {
+      "name": "Carlos Mendez",
+      "title": "Founder",
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "snippet": "Carlos Mendez Owner & Founder Email: carlos@coastalhomesmiami.com",
+      "matched_email": "carlos@coastalhomesmiami.com",
+      "email_matching_strategy": "FIRST_NAME",
+      "title_weight": 100.0,
+      "page_weight": 90.0,
+      "email_weight": 22.0,
+      "social_weight": 0.0,
+      "score": 100.0,
+      "is_primary": true,
+      "evidence": [
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Founder",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 40.0,
+          "reason": "Leadership title base weight for Founder"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Founder",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 18.0,
+          "reason": "Highest priority page type match (team)"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Founder",
+          "matched_name": "Carlos Mendez",
+          "matched_email": "carlos@coastalhomesmiami.com",
+          "confidence_delta": 22.0,
+          "reason": "Verified email via FIRST_NAME"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Founder",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Founder",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Candidate appeared on 2 distinct pages"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 40.0,
+        "page_weight": 18.0,
+        "email_bonus": 22.0,
+        "dual_title_combo_bonus": 10.0,
+        "repeat_bonus": 10.0,
+        "final_score": 100.0
+      }
+    },
+    {
+      "name": "Carlos Mendez",
+      "title": "Owner",
+      "page_url": "http://coastalhomesmiami.com/team",
+      "page_type": "team",
+      "snippet": "Carlos Mendez | Owner & Founder",
+      "matched_email": "carlos@coastalhomesmiami.com",
+      "email_matching_strategy": "FIRST_NAME",
+      "title_weight": 100.0,
+      "page_weight": 90.0,
+      "email_weight": 22.0,
+      "social_weight": 0.0,
+      "score": 90.0,
+      "is_primary": false,
+      "evidence": [
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Owner",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 40.0,
+          "reason": "Leadership title base weight for Owner"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Owner",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 18.0,
+          "reason": "Highest priority page type match (team)"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Owner",
+          "matched_name": "Carlos Mendez",
+          "matched_email": "carlos@coastalhomesmiami.com",
+          "confidence_delta": 22.0,
+          "reason": "Verified email via FIRST_NAME"
+        },
+        {
+          "page_url": "http://coastalhomesmiami.com/team",
+          "page_type": "team",
+          "title_found": "Owner",
+          "matched_name": "Carlos Mendez",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 40.0,
+        "page_weight": 18.0,
+        "email_bonus": 22.0,
+        "dual_title_combo_bonus": 10.0,
+        "final_score": 90.0
+      }
+    }
+  ]
+}

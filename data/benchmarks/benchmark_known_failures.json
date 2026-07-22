@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "dataset_version": "1.0.0",
+    "creation_date": "2026-07-22",
+    "last_updated": "2026-07-22",
+    "total_companies": 2,
+    "industries": ["residential_real_estate"],
+    "states": ["FL", "TX"],
+    "notes": "Known challenging failures and historical edge cases dataset."
+  },
+  "companies": [
+    {
+      "domain": "complexmultiowner.com",
+      "business_name": "Complex Multi Owner Realty",
+      "expected_decision_maker_name": "Marcus Vance",
+      "expected_decision_maker_title": "CEO",
+      "expected_verified_email": "mvance@complexmultiowner.com",
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://complexmultiowner.com/about": "<html><body><div class='card'><h2>Marcus Vance</h2><p>CEO & Co-Founder</p><a href='mailto:mvance@complexmultiowner.com'>Email Marcus</a></div></body></html>"
+      },
+      "social_profiles": {
+        "linkedin": "https://linkedin.com/company/complexmultiowner"
+      }
+    },
+    {
+      "domain": "noemailbrokerage.com",
+      "business_name": "No Email Brokerage",
+      "expected_decision_maker_name": "Laura Hayes",
+      "expected_decision_maker_title": "President",
+      "expected_verified_email": null,
+      "expected_status": "NO_EMAIL_FOUND",
+      "snapshot_pages": {
+        "http://noemailbrokerage.com/team": "<html><body><p>Laura Hayes - President</p><p>Call (555) 019-2831</p></body></html>"
+      },
+      "social_profiles": {}
+    }
+  ]
+}

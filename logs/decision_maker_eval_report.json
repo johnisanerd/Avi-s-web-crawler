@@ -1,0 +1,78 @@
+{
+  "reproducibility_metadata": {
+    "benchmark_file": "data\\benchmarks\\benchmark_small.json",
+    "benchmark_version": "1.0.0",
+    "config_version": "1.0.0",
+    "python_version": "3.11.9",
+    "os": "Windows",
+    "execution_timestamp": "2026-07-22 11:43:47"
+  },
+  "metrics": {
+    "total_companies": 5,
+    "decision_maker_accuracy_pct": 100.0,
+    "email_verification_precision_pct": 100.0,
+    "false_positive_rate_pct": 0.0,
+    "false_negative_rate_pct": 0.0,
+    "avg_confidence_overall": 69.4,
+    "avg_confidence_correct": 69.4,
+    "avg_confidence_incorrect": 0.0,
+    "no_decision_maker_rate_pct": 20.0,
+    "generic_email_rejection_rate_pct": 100.0,
+    "avg_processing_time_ms": 16.29,
+    "peak_memory_mb": 0.1,
+    "cache_hit_rate_pct": 0.0,
+    "calibration_error_pct": 0.0
+  },
+  "deltas_vs_previous_run": {
+    "accuracy_delta": 0.0,
+    "email_precision_delta": 0.0,
+    "fp_rate_delta": 0.0,
+    "fn_rate_delta": 0.0,
+    "latency_delta_ms": -128.58
+  },
+  "confusion_matrices": {
+    "detection": {
+      "TP": 4,
+      "FP": 0,
+      "TN": 1,
+      "FN": 0
+    },
+    "email": {
+      "TP": 3,
+      "FP": 0,
+      "TN": 2,
+      "FN": 0
+    }
+  },
+  "calibration_buckets": {
+    "90-100": {
+      "total": 3,
+      "correct": 3
+    },
+    "80-89": {
+      "total": 0,
+      "correct": 0
+    },
+    "70-79": {
+      "total": 0,
+      "correct": 0
+    },
+    "<70": {
+      "total": 2,
+      "correct": 2
+    }
+  },
+  "failure_taxonomy": {
+    "Wrong Decision Maker": 0,
+    "Wrong Title": 0,
+    "Wrong Email": 0,
+    "Generic Email Accepted": 0,
+    "Confidence Too High": 0,
+    "Confidence Too Low": 0,
+    "Candidate Conflict": 0,
+    "No Decision Maker Found": 0,
+    "Parser Failure": 0,
+    "Email Matcher Failure": 0
+  },
+  "failures": []
+}

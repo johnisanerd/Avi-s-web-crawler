@@ -305,3 +305,134 @@
 2026-07-20 01:44:22 [INFO] enrichment: Extracting contact info from website: keyrealtymhk.com
 2026-07-20 01:44:25 [INFO] enrichment: Extracting contact info from website: ryanandsons.com
 2026-07-20 01:44:28 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:22:17 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:22:17 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:22:17 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:22:17 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:22:18 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:22:18 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:22:18 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:27:30 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:27:30 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:27:30 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:27:30 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:27:30 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:27:30 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:27:30 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:28:09 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:28:09 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:28:09 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:28:09 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:28:09 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:28:09 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:28:09 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:28:33 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:28:33 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:28:33 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:28:33 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:28:33 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:28:33 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:28:33 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:28:58 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:28:58 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:29:00 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:00 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:29:00 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:29:00 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:29:00 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:00 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:29:00 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:29:00 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:12 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:29:12 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:29:13 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:14 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:29:14 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:29:14 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:29:14 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:14 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:29:14 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:29:14 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:32 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:29:32 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:29:34 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:34 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:29:34 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:29:34 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:29:34 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:29:34 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:29:34 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:29:34 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:32:29 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:32:29 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:32:32 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:32:32 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:32:32 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:32:32 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:32:32 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:32:32 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:32:32 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:32:32 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:36:13 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:36:13 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:37:03 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:37:04 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:37:04 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:37:04 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:37:04 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:37:04 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:37:04 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:37:04 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:37:11 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:37:11 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:37:51 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:37:52 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:37:52 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:37:52 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:37:52 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:37:52 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:37:52 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:37:52 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:38:20 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:38:20 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:40:01 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:40:01 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:40:01 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:40:01 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:40:01 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:40:01 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:40:01 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:40:01 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:52:15 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:52:15 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 01:53:11 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:53:11 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 01:53:11 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 01:53:11 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 01:53:11 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 01:53:11 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 01:53:11 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 01:53:11 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:39:46 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 11:39:46 [INFO] enrichment: Extracting contact info from website: https://apexrealty.com
+2026-07-22 11:39:48 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:40:24 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 11:40:24 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 11:40:26 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:40:27 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 11:40:27 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 11:40:27 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 11:40:27 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:40:27 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 11:40:27 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 11:40:27 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:43:47 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 11:43:47 [INFO] enrichment: Extracting contact info from website: apexrealty.com
+2026-07-22 11:43:49 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:43:49 [INFO] enrichment: Beginning contact enrichment on 2 leads...
+2026-07-22 11:43:49 [INFO] enrichment: Extracting contact info from website: http://realty.com
+2026-07-22 11:43:49 [INFO] enrichment: Cache hit: Reusing contact details for domain realty.com
+2026-07-22 11:43:49 [INFO] enrichment: Lead contact details enrichment completed.
+2026-07-22 11:43:50 [INFO] enrichment: Beginning contact enrichment on 1 leads...
+2026-07-22 11:43:50 [INFO] enrichment: Extracting contact info from website: pipelinea.com
+2026-07-22 11:43:50 [INFO] enrichment: Lead contact details enrichment completed.

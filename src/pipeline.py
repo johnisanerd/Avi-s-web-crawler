@@ -13,6 +13,7 @@ from src.exporter import LeadExporter
 from src.enrichment import LeadEnricher
 from src.lead_scorer import LeadScorer
 from src.business_intelligence import BusinessIntelligence
+from src.decision_maker_intelligence import DecisionMakerIntelligence
 from src.revenue_intelligence import RevenueIntelligence
 from src.technology_intelligence import TechnologyIntelligence
 
@@ -125,10 +126,15 @@ class LeadGenerationPipeline:
             bi_engine = BusinessIntelligence()
             bi_leads = bi_engine.analyze_leads(enriched_leads, enricher.domain_cache)
 
+            # 4.6.5 Identify primary decision makers with Decision Maker Intelligence engine
+            logger.info("Identifying primary decision makers with decision maker intelligence engine...")
+            dm_engine = DecisionMakerIntelligence()
+            dm_leads = dm_engine.analyze_leads(bi_leads, enricher.domain_cache)
+
             # 4.7. Compute opportunity scores and tiers
             logger.info("Computing opportunity scores and tiers for enriched leads...")
             scorer = LeadScorer()
-            scored_leads = scorer.score_leads(bi_leads)
+            scored_leads = scorer.score_leads(dm_leads)
 
             # 4.8. Compute revenue intelligence metrics
             logger.info("Computing revenue intelligence metrics...")

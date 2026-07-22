@@ -1,0 +1,230 @@
+{
+  "decision_maker_name": "Sarah Jenkins",
+  "decision_maker_title": "Ceo",
+  "decision_maker_source": "http://urbanlivingny.com/about-us",
+  "confidence_score": 54,
+  "verified_email": null,
+  "email_source": null,
+  "email_verified": false,
+  "status": "NO_EMAIL_FOUND",
+  "processing_time_ms": 0.0,
+  "evidence": [
+    {
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "title_found": "Ceo",
+      "matched_name": "Sarah Jenkins",
+      "matched_email": null,
+      "confidence_delta": 34.0,
+      "reason": "Leadership title base weight for Ceo"
+    },
+    {
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "title_found": "Ceo",
+      "matched_name": "Sarah Jenkins",
+      "matched_email": null,
+      "confidence_delta": 20.0,
+      "reason": "Highest priority page type match (about)"
+    },
+    {
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "title_found": "Ceo",
+      "matched_name": "Sarah Jenkins",
+      "matched_email": null,
+      "confidence_delta": -15.0,
+      "reason": "No verified personal email found on website"
+    },
+    {
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "title_found": "Ceo",
+      "matched_name": "Sarah Jenkins",
+      "matched_email": null,
+      "confidence_delta": 15.0,
+      "reason": "Company social profile verification confirmed"
+    },
+    {
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "title_found": "Ceo",
+      "matched_name": "Sarah Jenkins",
+      "matched_email": null,
+      "confidence_delta": 10.0,
+      "reason": "Dual executive leadership title combination detected"
+    },
+    {
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "title_found": "Ceo",
+      "matched_name": "Sarah Jenkins",
+      "matched_email": null,
+      "confidence_delta": -10.0,
+      "reason": "Candidate appeared on only 1 page"
+    }
+  ],
+  "conflicts": [],
+  "decision_makers": [
+    {
+      "name": "Sarah Jenkins",
+      "title": "Ceo",
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "snippet": "Sarah Jenkins - President & CEO",
+      "matched_email": null,
+      "email_matching_strategy": null,
+      "title_weight": 85.0,
+      "page_weight": 100.0,
+      "email_weight": 0.0,
+      "social_weight": 15.0,
+      "score": 54.0,
+      "is_primary": true,
+      "evidence": [
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "Ceo",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 34.0,
+          "reason": "Leadership title base weight for Ceo"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "Ceo",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 20.0,
+          "reason": "Highest priority page type match (about)"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "Ceo",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": -15.0,
+          "reason": "No verified personal email found on website"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "Ceo",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 15.0,
+          "reason": "Company social profile verification confirmed"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "Ceo",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "Ceo",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": -10.0,
+          "reason": "Candidate appeared on only 1 page"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 34.0,
+        "page_weight": 20.0,
+        "no_email_penalty": -15.0,
+        "social_bonus": 15.0,
+        "dual_title_combo_bonus": 10.0,
+        "single_appearance_penalty": -10.0,
+        "final_score": 54.0
+      }
+    },
+    {
+      "name": "Sarah Jenkins",
+      "title": "President",
+      "page_url": "http://urbanlivingny.com/about-us",
+      "page_type": "about",
+      "snippet": "Sarah Jenkins - President & CEO",
+      "matched_email": null,
+      "email_matching_strategy": null,
+      "title_weight": 85.0,
+      "page_weight": 100.0,
+      "email_weight": 0.0,
+      "social_weight": 15.0,
+      "score": 54.0,
+      "is_primary": false,
+      "evidence": [
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "President",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 34.0,
+          "reason": "Leadership title base weight for President"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "President",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 20.0,
+          "reason": "Highest priority page type match (about)"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "President",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": -15.0,
+          "reason": "No verified personal email found on website"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "President",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 15.0,
+          "reason": "Company social profile verification confirmed"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "President",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        },
+        {
+          "page_url": "http://urbanlivingny.com/about-us",
+          "page_type": "about",
+          "title_found": "President",
+          "matched_name": "Sarah Jenkins",
+          "matched_email": null,
+          "confidence_delta": -10.0,
+          "reason": "Candidate appeared on only 1 page"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 34.0,
+        "page_weight": 20.0,
+        "no_email_penalty": -15.0,
+        "social_bonus": 15.0,
+        "dual_title_combo_bonus": 10.0,
+        "single_appearance_penalty": -10.0,
+        "final_score": 54.0
+      }
+    }
+  ]
+}

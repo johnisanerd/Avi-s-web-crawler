@@ -110,7 +110,14 @@ STANDARDIZED_COLUMNS: List[str] = [
     "CDN Provider",
     "Technology Confidence",
     "Technology Reasoning",
-    "Technology Model Version"
+    "Technology Model Version",
+    "Decision Maker Name",
+    "Decision Maker Title",
+    "Decision Maker Confidence",
+    "Decision Maker Status",
+    "Verified Email",
+    "Email Source",
+    "Email Verified"
 ]
 
 # Clay export columns (exactly as defined in the specification)
@@ -162,7 +169,14 @@ CLAY_COLUMNS: List[str] = [
     "CDN Provider",
     "Technology Confidence",
     "Technology Reasoning",
-    "Technology Model Version"
+    "Technology Model Version",
+    "Decision Maker Name",
+    "Decision Maker Title",
+    "Decision Maker Confidence",
+    "Decision Maker Status",
+    "Verified Email",
+    "Email Source",
+    "Email Verified"
 ]
 
 # Lead Scoring Engine Configuration Rules

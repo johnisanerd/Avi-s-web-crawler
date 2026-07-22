@@ -1,0 +1,30 @@
+[2026-07-22 11:36:14] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:36:14] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:36:30] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:36:30] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:37:09] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:37:09] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:37:16] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:37:16] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:37:22] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:37:22] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 0) ---
+[2026-07-22 11:37:31] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:37:31] [INFO] Command Executed: benchmark small
+[2026-07-22 11:37:32] [INFO] Benchmark Execution: tier='small', status='SUCCESS'
+[2026-07-22 11:37:32] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:39:24] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:39:24] [INFO] Command Executed: crawl apexrealty.com
+[2026-07-22 11:39:46] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:39:46] [INFO] Command Executed: crawl apexrealty.com
+[2026-07-22 11:39:48] [INFO] Crawl Operation: target='apexrealty.com', status='SUCCESS'
+[2026-07-22 11:39:48] [INFO] --- CLI Session Ended (Duration: 00:02, Commands: 0) ---
+[2026-07-22 11:40:01] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:40:01] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:42:45] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:42:45] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:43:27] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:43:27] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---
+[2026-07-22 11:43:37] [INFO] --- CLI Session Started (Mode: Non-Interactive, Python: 3.11.9, Platform: win32) ---
+[2026-07-22 11:43:37] [INFO] Command Executed: benchmark small
+[2026-07-22 11:43:38] [INFO] Benchmark Execution: tier='small', status='SUCCESS'
+[2026-07-22 11:43:38] [INFO] --- CLI Session Ended (Duration: 00:00, Commands: 1) ---

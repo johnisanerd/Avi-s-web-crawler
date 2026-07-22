@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "dataset_version": "1.0.0",
+    "creation_date": "2026-07-22",
+    "last_updated": "2026-07-22",
+    "total_companies": 5,
+    "industries": ["residential_real_estate"],
+    "states": ["FL", "TX", "CA", "NY"],
+    "notes": "Representative small benchmark tier for rapid regression testing."
+  },
+  "companies": [
+    {
+      "domain": "apexrealtyaustin.com",
+      "business_name": "Apex Realty Group",
+      "expected_decision_maker_name": "Jane Doe",
+      "expected_decision_maker_title": "Founder & Principal Broker",
+      "expected_verified_email": "jane.doe@apexrealtyaustin.com",
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://apexrealtyaustin.com/about": "<html><body><h1>About Us</h1><div class='team-member'><h2>Jane Doe</h2><p>Founder & Principal Broker</p><a href='mailto:jane.doe@apexrealtyaustin.com'>Email Jane</a></div></body></html>",
+        "http://apexrealtyaustin.com/contact": "<html><body><footer><p>Contact: info@apexrealtyaustin.com</p></footer></body></html>"
+      },
+      "social_profiles": {
+        "linkedin": "https://linkedin.com/company/apexrealtyaustin"
+      }
+    },
+    {
+      "domain": "sunsetsir.com",
+      "business_name": "Sunset Sotheby's International Realty",
+      "expected_decision_maker_name": "Robert Sterling",
+      "expected_decision_maker_title": "Managing Broker",
+      "expected_verified_email": "rsterling@sunsetsir.com",
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://sunsetsir.com/leadership": "<html><body><h1>Leadership Team</h1><div><h2>Robert Sterling</h2><p>Managing Broker</p><a href='mailto:rsterling@sunsetsir.com'>Direct Email</a></div></body></html>"
+      },
+      "social_profiles": {
+        "facebook": "https://facebook.com/sunsetsir"
+      }
+    },
+    {
+      "domain": "coastalhomesmiami.com",
+      "business_name": "Coastal Homes Realty",
+      "expected_decision_maker_name": "Carlos Mendez",
+      "expected_decision_maker_title": "Owner",
+      "expected_verified_email": "carlos@coastalhomesmiami.com",
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://coastalhomesmiami.com/team": "<html><body><div class='card'><h2>Carlos Mendez</h2><p>Owner & Founder</p><p>Email: carlos@coastalhomesmiami.com</p></div></body></html>"
+      },
+      "social_profiles": {}
+    },
+    {
+      "domain": "urbanlivingny.com",
+      "business_name": "Urban Living New York",
+      "expected_decision_maker_name": "Sarah Jenkins",
+      "expected_decision_maker_title": "President",
+      "expected_verified_email": null,
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://urbanlivingny.com/about-us": "<html><body><p>Sarah Jenkins - President & CEO</p><p>For inquiries, email office@urbanlivingny.com</p></body></html>"
+      },
+      "social_profiles": {
+        "instagram": "https://instagram.com/urbanlivingny"
+      }
+    },
+    {
+      "domain": "genericrealtyfl.com",
+      "business_name": "Generic Realty Florida",
+      "expected_decision_maker_name": null,
+      "expected_decision_maker_title": null,
+      "expected_verified_email": null,
+      "expected_status": "NO_DECISION_MAKER",
+      "snapshot_pages": {
+        "http://genericrealtyfl.com/": "<html><body><h1>Welcome to Generic Realty</h1><p>Call us today!</p><footer>info@genericrealtyfl.com</footer></body></html>"
+      },
+      "social_profiles": {}
+    }
+  ]
+}

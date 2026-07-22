@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "dataset_version": "1.0.0",
+    "creation_date": "2026-07-22",
+    "last_updated": "2026-07-22",
+    "total_companies": 5,
+    "industries": ["residential_real_estate"],
+    "states": ["FL", "TX", "CA", "NY"],
+    "notes": "Edge cases dataset: multi-owner, generic-only, footer-only, broken HTML, non-human strings."
+  },
+  "companies": [
+    {
+      "domain": "multiownerrealty.com",
+      "business_name": "Multi-Owner Realty",
+      "expected_decision_maker_name": "Alice Walker",
+      "expected_decision_maker_title": "Owner",
+      "expected_verified_email": "awalker@multiownerrealty.com",
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://multiownerrealty.com/about": "<html><body><p>Alice Walker - Owner</p><a href='mailto:awalker@multiownerrealty.com'>Email Alice</a><p>Bob Harris - Co-Owner</p><a href='mailto:bharris@multiownerrealty.com'>Email Bob</a></body></html>"
+      },
+      "social_profiles": {
+        "linkedin": "https://linkedin.com/company/multiownerrealty"
+      }
+    },
+    {
+      "domain": "genericonlyagency.com",
+      "business_name": "Generic Only Agency",
+      "expected_decision_maker_name": "David Miller",
+      "expected_decision_maker_title": "Broker/Owner",
+      "expected_verified_email": null,
+      "expected_status": "NO_EMAIL_FOUND",
+      "snapshot_pages": {
+        "http://genericonlyagency.com/team": "<html><body><div><h2>David Miller</h2><p>Broker/Owner</p><p>Contact: info@genericonlyagency.com</p></div></body></html>"
+      },
+      "social_profiles": {}
+    },
+    {
+      "domain": "footeronlybrokerage.com",
+      "business_name": "Footer Only Brokerage",
+      "expected_decision_maker_name": null,
+      "expected_decision_maker_title": null,
+      "expected_verified_email": null,
+      "expected_status": "NO_DECISION_MAKER",
+      "snapshot_pages": {
+        "http://footeronlybrokerage.com/": "<html><body><h1>Welcome</h1><footer><p>John Footer - Owner</p></footer></body></html>"
+      },
+      "social_profiles": {}
+    },
+    {
+      "domain": "brokenhtmlrealty.com",
+      "business_name": "Broken HTML Realty",
+      "expected_decision_maker_name": "Emma Watson",
+      "expected_decision_maker_title": "Managing Partner",
+      "expected_verified_email": "ewatson@brokenhtmlrealty.com",
+      "expected_status": "FOUND",
+      "snapshot_pages": {
+        "http://brokenhtmlrealty.com/our-team": "<html><body><div><h2>Emma Watson<p>Managing Partner&nbsp;<a href='mailto:ewatson@brokenhtmlrealty.com'>Contact</a></div></body>"
+      },
+      "social_profiles": {
+        "x": "https://x.com/brokenhtmlrealty"
+      }
+    },
+    {
+      "domain": "mlstermsagency.com",
+      "business_name": "MLS Terms Agency",
+      "expected_decision_maker_name": null,
+      "expected_decision_maker_title": null,
+      "expected_verified_email": null,
+      "expected_status": "NO_DECISION_MAKER",
+      "snapshot_pages": {
+        "http://mlstermsagency.com/": "<html><body><p>MLS Terms Privacy Search - Owner</p><p>Contact admin@mlstermsagency.com</p></body></html>"
+      },
+      "social_profiles": {}
+    }
+  ]
+}

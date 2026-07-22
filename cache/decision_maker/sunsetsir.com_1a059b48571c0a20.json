@@ -1,0 +1,150 @@
+{
+  "decision_maker_name": "Robert Sterling",
+  "decision_maker_title": "Managing Broker",
+  "decision_maker_source": "http://sunsetsir.com/leadership",
+  "confidence_score": 93,
+  "verified_email": "rsterling@sunsetsir.com",
+  "email_source": "http://sunsetsir.com/leadership",
+  "email_verified": true,
+  "status": "FOUND",
+  "processing_time_ms": 0.0,
+  "evidence": [
+    {
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "title_found": "Managing Broker",
+      "matched_name": "Robert Sterling",
+      "matched_email": null,
+      "confidence_delta": 36.0,
+      "reason": "Leadership title base weight for Managing Broker"
+    },
+    {
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "title_found": "Managing Broker",
+      "matched_name": "Robert Sterling",
+      "matched_email": null,
+      "confidence_delta": 17.0,
+      "reason": "Highest priority page type match (leadership)"
+    },
+    {
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "title_found": "Managing Broker",
+      "matched_name": "Robert Sterling",
+      "matched_email": "rsterling@sunsetsir.com",
+      "confidence_delta": 25.0,
+      "reason": "Verified email via FIRST_INITIAL_LAST"
+    },
+    {
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "title_found": "Managing Broker",
+      "matched_name": "Robert Sterling",
+      "matched_email": null,
+      "confidence_delta": 15.0,
+      "reason": "Company social profile verification confirmed"
+    },
+    {
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "title_found": "Managing Broker",
+      "matched_name": "Robert Sterling",
+      "matched_email": null,
+      "confidence_delta": 10.0,
+      "reason": "Dual executive leadership title combination detected"
+    },
+    {
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "title_found": "Managing Broker",
+      "matched_name": "Robert Sterling",
+      "matched_email": null,
+      "confidence_delta": -10.0,
+      "reason": "Candidate appeared on only 1 page"
+    }
+  ],
+  "conflicts": [],
+  "decision_makers": [
+    {
+      "name": "Robert Sterling",
+      "title": "Managing Broker",
+      "page_url": "http://sunsetsir.com/leadership",
+      "page_type": "leadership",
+      "snippet": "Robert Sterling | Managing Broker",
+      "matched_email": "rsterling@sunsetsir.com",
+      "email_matching_strategy": "FIRST_INITIAL_LAST",
+      "title_weight": 90.0,
+      "page_weight": 85.0,
+      "email_weight": 25.0,
+      "social_weight": 15.0,
+      "score": 93.0,
+      "is_primary": true,
+      "evidence": [
+        {
+          "page_url": "http://sunsetsir.com/leadership",
+          "page_type": "leadership",
+          "title_found": "Managing Broker",
+          "matched_name": "Robert Sterling",
+          "matched_email": null,
+          "confidence_delta": 36.0,
+          "reason": "Leadership title base weight for Managing Broker"
+        },
+        {
+          "page_url": "http://sunsetsir.com/leadership",
+          "page_type": "leadership",
+          "title_found": "Managing Broker",
+          "matched_name": "Robert Sterling",
+          "matched_email": null,
+          "confidence_delta": 17.0,
+          "reason": "Highest priority page type match (leadership)"
+        },
+        {
+          "page_url": "http://sunsetsir.com/leadership",
+          "page_type": "leadership",
+          "title_found": "Managing Broker",
+          "matched_name": "Robert Sterling",
+          "matched_email": "rsterling@sunsetsir.com",
+          "confidence_delta": 25.0,
+          "reason": "Verified email via FIRST_INITIAL_LAST"
+        },
+        {
+          "page_url": "http://sunsetsir.com/leadership",
+          "page_type": "leadership",
+          "title_found": "Managing Broker",
+          "matched_name": "Robert Sterling",
+          "matched_email": null,
+          "confidence_delta": 15.0,
+          "reason": "Company social profile verification confirmed"
+        },
+        {
+          "page_url": "http://sunsetsir.com/leadership",
+          "page_type": "leadership",
+          "title_found": "Managing Broker",
+          "matched_name": "Robert Sterling",
+          "matched_email": null,
+          "confidence_delta": 10.0,
+          "reason": "Dual executive leadership title combination detected"
+        },
+        {
+          "page_url": "http://sunsetsir.com/leadership",
+          "page_type": "leadership",
+          "title_found": "Managing Broker",
+          "matched_name": "Robert Sterling",
+          "matched_email": null,
+          "confidence_delta": -10.0,
+          "reason": "Candidate appeared on only 1 page"
+        }
+      ],
+      "scoring_breakdown": {
+        "title_weight": 36.0,
+        "page_weight": 17.0,
+        "email_bonus": 25.0,
+        "social_bonus": 15.0,
+        "dual_title_combo_bonus": 10.0,
+        "single_appearance_penalty": -10.0,
+        "final_score": 93.0
+      }
+    }
+  ]
+}
