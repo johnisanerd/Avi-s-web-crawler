@@ -5,6 +5,7 @@ and 8-stage deterministic email-to-person matching strategies.
 
 import re
 from typing import List, Optional, Tuple
+from urllib.parse import urlparse
 from src.decision_maker_config import GENERIC_EMAIL_PREFIXES
 
 
@@ -18,6 +19,41 @@ def normalize_email(email: str) -> str:
     if clean.startswith("mailto:"):
         clean = clean[7:].strip()
     return clean
+
+
+def normalize_domain(value: str) -> str:
+    """
+    Normalizes a URL or hostname for deterministic domain comparisons.
+    """
+    if not value:
+        return ""
+
+    candidate = value.strip().lower()
+    parsed = urlparse(candidate if "://" in candidate else f"//{candidate}")
+    hostname = parsed.hostname or ""
+    if hostname.startswith("www."):
+        hostname = hostname[4:]
+    return hostname.rstrip(".")
+
+
+def email_matches_domain(email: str, domain: str) -> bool:
+    """
+    Returns True when an email belongs to the crawled host or its parent/subdomain.
+    """
+    clean_email = normalize_email(email)
+    if "@" not in clean_email:
+        return False
+
+    email_domain = normalize_domain(clean_email.rsplit("@", 1)[1])
+    target_domain = normalize_domain(domain)
+    if not email_domain or not target_domain:
+        return False
+
+    return (
+        email_domain == target_domain
+        or email_domain.endswith(f".{target_domain}")
+        or target_domain.endswith(f".{email_domain}")
+    )
 
 
 def is_generic_email(email: str) -> bool:

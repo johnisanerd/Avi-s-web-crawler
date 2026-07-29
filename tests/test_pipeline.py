@@ -521,15 +521,14 @@ class TestEnrichment(unittest.TestCase):
         # Homepage has email
         mock_response = MagicMock()
         mock_response.status_code = 200
-        mock_response.text = "<html><body>Contact us at info@brokerage.com</body></html>"
+        mock_response.text = "<html><body>Contact us at info@testsite.com</body></html>"
         mock_get.return_value = mock_response
 
-        extractor = EmailExtractor()
+        extractor = EmailExtractor(max_pages=1)
         res = extractor.extract_from_website("http://testsite.com")
         
-        self.assertEqual(res.best_email, "info@brokerage.com")
-        self.assertEqual(res.emails, ["info@brokerage.com"])
-        # Should only visit homepage
+        self.assertEqual(res.best_email, "info@testsite.com")
+        self.assertEqual(res.emails, ["info@testsite.com"])
         self.assertEqual(mock_get.call_count, 1)
 
     @patch("requests.Session.get")
@@ -541,48 +540,47 @@ class TestEnrichment(unittest.TestCase):
         
         mock_contact = MagicMock()
         mock_contact.status_code = 200
-        mock_contact.text = "<html><body>Email: sales@brokerage.com</body></html>"
+        mock_contact.text = "<html><body>Email: sales@testsite.com</body></html>"
         
-        mock_get.side_effect = [mock_home, mock_contact] + [None]*8
+        mock_get.side_effect = [mock_home, mock_contact]
 
-        extractor = EmailExtractor()
+        extractor = EmailExtractor(max_pages=2)
         res = extractor.extract_from_website("http://testsite.com")
         
-        self.assertEqual(res.best_email, "sales@brokerage.com")
-        self.assertTrue(mock_get.call_count > 1)
+        self.assertEqual(res.best_email, "sales@testsite.com")
+        self.assertEqual(mock_get.call_count, 2)
 
     @patch("requests.Session.get")
     def test_owner_email_and_details_detection(self, mock_get):
         # Test detection of owner details: "John Doe - Owner" and jdoe@brokerage.com
         mock_response = MagicMock()
         mock_response.status_code = 200
-        mock_response.text = "<html><body>John Doe - Owner (email: jdoe@brokerage.com)</body></html>"
+        mock_response.text = "<html><body>John Doe - Owner (email: jdoe@testsite.com)</body></html>"
         mock_get.return_value = mock_response
 
-        extractor = EmailExtractor()
+        extractor = EmailExtractor(max_pages=1)
         res = extractor.extract_from_website("http://testsite.com")
         
         self.assertEqual(res.owner_name, "John Doe")
         self.assertEqual(res.owner_title, "Owner")
-        self.assertEqual(res.owner_email, "jdoe@brokerage.com")
+        self.assertEqual(res.owner_email, "jdoe@testsite.com")
 
     @patch("requests.Session.get")
     def test_multiple_emails_ranking(self, mock_get):
-        # Multiple emails: info@, sales@, broker@, regular@
+        # Personal addresses rank ahead of generic business inboxes.
         mock_response = MagicMock()
         mock_response.status_code = 200
-        # broker@ is highest priority, sales@ is priority 2, regular@ is priority 3
-        mock_response.text = "<html><body>regular@brokerage.com, sales@brokerage.com, broker@brokerage.com</body></html>"
+        # Original order is retained within each personal/generic rank.
+        mock_response.text = "<html><body>regular@testsite.com, sales@testsite.com, broker@testsite.com</body></html>"
         mock_get.return_value = mock_response
 
-        extractor = EmailExtractor()
+        extractor = EmailExtractor(max_pages=1)
         res = extractor.extract_from_website("http://testsite.com")
         
-        # Best email should be ranked by prefix priority (broker@ first)
-        self.assertEqual(res.best_email, "broker@brokerage.com")
-        self.assertEqual(res.emails[0], "broker@brokerage.com")
-        self.assertEqual(res.emails[1], "sales@brokerage.com")
-        self.assertEqual(res.emails[2], "regular@brokerage.com")
+        self.assertEqual(res.best_email, "regular@testsite.com")
+        self.assertEqual(res.emails[0], "regular@testsite.com")
+        self.assertEqual(res.emails[1], "broker@testsite.com")
+        self.assertEqual(res.emails[2], "sales@testsite.com")
 
     @patch("requests.Session.get")
     def test_no_emails_found(self, mock_get):
@@ -645,7 +643,7 @@ class TestEnrichment(unittest.TestCase):
             google_maps_url="", google_place_id="", source_queries=set()
         )
 
-        enricher = LeadEnricher()
+        enricher = LeadEnricher(max_pages=1)
         enriched = enricher.enrich_leads([lead_a, lead_b])
 
         # Verify both leads enriched

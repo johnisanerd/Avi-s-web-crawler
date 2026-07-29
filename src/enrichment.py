@@ -56,10 +56,7 @@ class LeadEnricher:
             # Return a copy of the Lead with enriched fields
             enriched = replace(
                 lead,
-                business_email=res.best_email,
-                owner_name=res.owner_name,
-                owner_title=res.owner_title,
-                owner_email=res.owner_email
+                business_email=res.best_email
             )
             enriched_leads.append(enriched)
 
