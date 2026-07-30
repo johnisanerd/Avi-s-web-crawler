@@ -31,7 +31,7 @@ Developer Documentation:
    Enforces MIN_CONFIDENCE_THRESHOLD (40). Winners below threshold yield status="NO_DECISION_MAKER".
 
 7. Content-Hashed Cache Invalidation:
-   Derives a SHA-256 hash from HTML pages, URLs, social profile URLs, and CONFIG_VERSION ("1.0.0").
+   Derives a SHA-256 hash from HTML pages, URLs, social profile URLs, and CONFIG_VERSION.
    Automatically invalidates cache if page content or configuration changes.
 
 8. Fail-Safe Exception Handling & Diagnostics:
@@ -69,6 +69,7 @@ from src.decision_maker_config import (
 )
 from src.email_utils import (
     normalize_email,
+    email_matches_domain,
     is_generic_email,
     is_personal_email,
     match_email_to_name
@@ -285,6 +286,8 @@ class DecisionMakerIntelligence:
             tokens = cand.name.lower().split()
             if len(tokens) < 2 or len(tokens) > 4:
                 continue
+            if not self.name_title_regex.fullmatch(cand.name):
+                continue
 
             # Strict person name validation against forbidden patterns
             if any(w in FORBIDDEN_NAME_PATTERNS for w in tokens):
@@ -327,11 +330,16 @@ class DecisionMakerIntelligence:
 
         # Collect all snapshot emails
         all_snapshot_emails: List[str] = []
-        for html in snapshot.pages.values():
+        email_source_by_address: Dict[str, str] = {}
+        for page_url, html in snapshot.pages.items():
             mailto_matches = self.mailto_regex.findall(html)
             raw_matches = self.raw_email_regex.findall(html)
-            all_snapshot_emails.extend(mailto_matches + raw_matches)
-        all_snapshot_emails = list(dict.fromkeys([normalize_email(e) for e in all_snapshot_emails]))
+            for email in mailto_matches + raw_matches:
+                normalized = normalize_email(email)
+                if email_matches_domain(normalized, snapshot.domain):
+                    all_snapshot_emails.append(normalized)
+                    email_source_by_address.setdefault(normalized, page_url)
+        all_snapshot_emails = list(dict.fromkeys(all_snapshot_emails))
 
         for primary, occurrences in merged_candidates:
             evidence_list: List[DecisionMakerEvidence] = []
@@ -387,7 +395,7 @@ class DecisionMakerIntelligence:
                 total_score += email_weight
                 breakdown["email_bonus"] = round(email_weight, 2)
                 evidence_list.append(DecisionMakerEvidence(
-                    page_url=primary.page_url,
+                    page_url=email_source_by_address[matched_email],
                     page_type=primary.page_type,
                     title_found=primary.title,
                     matched_name=primary.name,
@@ -567,8 +575,17 @@ class DecisionMakerIntelligence:
 
         winner.is_primary = True
         status = "FOUND" if winner.matched_email else "NO_EMAIL_FOUND"
+        email_source = None
         if winner.matched_email:
             self.stats["verified_emails"] += 1
+            email_source = next(
+                (
+                    evidence.page_url
+                    for evidence in winner.evidence
+                    if evidence.matched_email == winner.matched_email
+                ),
+                None
+            )
 
         return DecisionMaker(
             decision_maker_name=winner.name,
@@ -576,7 +593,7 @@ class DecisionMakerIntelligence:
             decision_maker_source=winner.page_url,
             confidence_score=final_int_confidence,
             verified_email=winner.matched_email,
-            email_source=winner.page_url if winner.matched_email else None,
+            email_source=email_source,
             email_verified=winner.matched_email is not None,
             status=status,
             evidence=[asdict(e) for e in winner.evidence],
@@ -647,8 +664,11 @@ class DecisionMakerIntelligence:
         extraction_res = domain_cache.get(domain) if domain else None
         if extraction_res:
             html_list = getattr(extraction_res, "html_pages", []) or []
+            page_urls = getattr(extraction_res, "html_page_urls", []) or []
             for idx, html_text in enumerate(html_list):
-                url = f"{lead.website}/page_{idx}" if lead.website else f"http://{domain}/page_{idx}"
+                url = page_urls[idx] if idx < len(page_urls) else ""
+                if not url:
+                    url = f"{lead.website}/page_{idx}" if lead.website else f"http://{domain}/page_{idx}"
                 pages[url] = html_text
 
         socials = lead.social_profiles or {}
@@ -659,15 +679,11 @@ class DecisionMakerIntelligence:
         )
 
     def _update_lead_with_decision_maker(self, lead: Lead, dm: DecisionMaker) -> Lead:
-        owner_name = dm.decision_maker_name or lead.owner_name
-        owner_title = dm.decision_maker_title or lead.owner_title
-        owner_email = dm.verified_email or lead.owner_email
-
         from dataclasses import replace
         return replace(
             lead,
-            owner_name=owner_name,
-            owner_title=owner_title,
-            owner_email=owner_email,
+            owner_name=dm.decision_maker_name,
+            owner_title=dm.decision_maker_title,
+            owner_email=dm.verified_email,
             decision_maker=dm
         )

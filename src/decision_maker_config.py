@@ -7,7 +7,7 @@ and generic email lists. This keeps business rules decoupled from extraction log
 from typing import Dict, Set
 
 # Configuration version for cache invalidation
-CONFIG_VERSION: str = "1.0.0"
+CONFIG_VERSION: str = "1.1.0"
 
 # Page priority weights (higher score = higher priority page type)
 PAGE_WEIGHTS: Dict[str, float] = {
